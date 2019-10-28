@@ -2,6 +2,8 @@
 
 module.exports = function(req) {
   if (
+    req &&
+    req.headers &&
     req.headers.authorization &&
     req.headers.authorization.split(' ')[0] === 'Bearer'
   ) {

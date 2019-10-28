@@ -1,9 +1,11 @@
 {
   "name": "@ryanburnette/get-bearer-token",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Get Authorization Bearer token from req object.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "node test.js"
+  },
   "author": "Ryan Burnette <ryan.burnette@gmail.com>",
   "license": "ISC",
   "repository": {
