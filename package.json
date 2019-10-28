@@ -1,13 +1,9 @@
 {
   "name": "@ryanburnette/get-bearer-token",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get Authorization Bearer token from req object.",
   "main": "index.js",
   "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "gitea@code.ryanburnette.com:ryanburnette/get-bearer-token.git"
-  },
   "author": "Ryan Burnette <ryan.burnette@gmail.com>",
   "license": "ISC",
   "repository": {
